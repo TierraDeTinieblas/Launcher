@@ -1,256 +1,194 @@
-    0.015 D <> Log initialized.
-    0.015 D <> No migration needed from "PolyMC"
-    0.015 D <> No migration needed from "MultiMC"
-    0.015 D "Prism Launcher" , (c) 2013-2021  "Prism Launcher Contributors\n© 2021-2022 PolyMC Contributors \n© 2012-2021 MultiMC Contributors"
-    0.015 D Version                    :  "6.1"
-    0.015 D Git commit                 :  "cb8c389303fe774003b49919a8ef6ded55e1c2b8"
-    0.015 D Git refspec                :  ""
-    0.015 D Work dir before adjustment :  "C:/Users/chara/Desktop/PrismLauncher-Windows-MSVC-Portable-6.1 - Copy - Copy"
-    0.015 D Work dir after adjustment  :  "C:/Users/chara/Desktop/PrismLauncher-Windows-MSVC-Portable-6.1 - Copy - Copy"
-    0.015 D Adjusted by                :  "Portable data path"
-    0.015 D Binary path                :  "C:/Users/chara/Desktop/PrismLauncher-Windows-MSVC-Portable-6.1 - Copy - Copy"
-    0.015 D Application root path      :  "C:/Users/chara/Desktop/PrismLauncher-Windows-MSVC-Portable-6.1 - Copy - Copy"
-    0.015 D <> Paths set.
-    0.015 D Detected default console font: "Courier New" , substitutions: ""
-    0.015 D <> Settings loaded.
-    0.015 D Detecting proxy settings...
-    0.015 D Using no proxy is an option!
-    0.015 D <> Network done.
-    0.029 D Loading Application Language File for es_UY ...
-    0.029 D Your language is "es_UY"
-    0.029 D <> Translations loaded.
-    0.031 D Started watching  "C:/Users/chara/Desktop/PrismLauncher-Windows-MSVC-Portable-6.1 - Copy - Copy/icons"
-    0.031 D Sorting icon list...
-    0.031 D <> Instance icons intialized.
-    0.031 D [Theme] <> Icon themes initialized.
-    0.031 D [Theme] <> Initializing Widget Themes
-    0.031 D [Theme] Determining System Theme...
-    0.031 D [Theme] System theme seems to be: "windowsvista"
-    0.031 D [Theme] Considering theme from theme factory: "windowsvista"
-    0.031 D [Theme] System theme has been determined to be: "windowsvista"
-    0.031 D [Theme] Loading Built-in Theme: "system"
-    0.031 D [Theme] Loading Built-in Theme: "dark"
-    0.031 D [Theme] Loading Built-in Theme: "bright"
-    0.031 D [Theme] Theme Folder Path:  "C:/Users/chara/Desktop/PrismLauncher-Windows-MSVC-Portable-6.1 - Copy - Copy/themes"
-    0.031 D [Theme] <> Widget themes initialized.
-    0.031 D Instance path              :  "instances"
-    0.031 D Loading Instances...
-    0.031 D Discovering instances in "C:/Users/chara/Desktop/PrismLauncher-Windows-MSVC-Portable-6.1 - Copy - Copy/instances"
-    0.031 D <> Instances loaded.
-    0.031 D Loading accounts...
-    0.031 D AccountList: Queued default account with internal ID  "d2ad426b179346e79bf5f16df5077fd3"  to refresh first
-    0.031 D Task "OfflineRefresh(0x1b1e7465380)" starting for the first time
-    0.031 D AuthFlow: "Creating offline account."
-    0.031 D Task "OfflineRefresh(0x1b1e7465380)" succeeded
-    0.031 D Writing account list to "accounts.json"
-    0.031 D Building JSON data structure.
-    0.031 D Building account array.
-    0.031 D Writing account list to file.
-    0.031 D Saved account list to "accounts.json"
-    0.031 D RefreshSchedule: Background account refresh succeeded
-    0.031 D RefreshSchedule: Processing account  "<Offline>"  with internal ID  "d2ad426b179346e79bf5f16df5077fd3"
-    0.031 D <> Accounts loaded.
-    0.031 D <> Cache initialized.
-    0.031 D Downloading Translations Index...
-    0.031 D Task "NetJob(Translations Index)" starting for the first time
-    0.031 D <> Icon theme set.
-    0.031 D [Theme] applying theme "Sistema"
-    0.031 D <> Application theme set.
-    0.219 D Reloading news.
-    0.219 D Task "NetJob(News RSS Feed)" starting for the first time
-    0.266 D <> Main window shown.
-    0.266 D Task "Net::Download(0x1b1e7465140)" starting for the first time
-    0.266 D Downloading  "https://i18n.prismlauncher.org/index_v2.json"
-    0.345 D Task "Net::Download(0x1b1eb4b7610)" starting for the first time
-    0.345 D Downloading  "https://prismlauncher.org/feed/feed.xml"
-    0.376 D Dir changed: "C:/Users/chara/Desktop/PrismLauncher-Windows-MSVC-Portable-6.1 - Copy - Copy/translations"
-    0.376 D Loading Application Language File for es_UY ...
-    0.611 D Download succeeded: "https://i18n.prismlauncher.org/index_v2.json"
-    0.611 D Task "NetJob(Translations Index)" succeeded
-    0.611 D Got translations index!
-    0.611 D Task "NetJob(Translation for es_UY)" starting for the first time
-    0.611 D Dir changed: "C:/Users/chara/Desktop/PrismLauncher-Windows-MSVC-Portable-6.1 - Copy - Copy/translations"
-    0.611 D Loading Application Language File for es_UY ...
-    0.611 D Task "Net::Download(0x1b1e73f6ce0)" starting for the first time
-    0.611 D Downloading  "https://i18n.prismlauncher.org/2287bd30b6b2fb8f20132700228828631f5b3420.class"
-    0.611 D Dir changed: "C:/Users/chara/Desktop/PrismLauncher-Windows-MSVC-Portable-6.1 - Copy - Copy/translations"
-    0.611 D Loading Application Language File for es_UY ...
-    0.674 D Download succeeded: "https://i18n.prismlauncher.org/2287bd30b6b2fb8f20132700228828631f5b3420.class"
-    0.674 D Task "NetJob(Translation for es_UY)" succeeded
-    0.674 D Got translation: "es_UY"
-    0.674 D Loading Application Language File for es_UY ...
-    0.674 D Dir changed: "C:/Users/chara/Desktop/PrismLauncher-Windows-MSVC-Portable-6.1 - Copy - Copy/translations"
-    0.674 D Loading Application Language File for es_UY ...
-    1.098 D Download succeeded: "https://prismlauncher.org/feed/feed.xml"
-    1.098 D Task "NetJob(News RSS Feed)" succeeded
-    1.098 D Finished loading RSS feed.
-    1.114 D Loaded news entry "Prism Launcher Release 6.1, now available"
-    1.114 D Loaded news entry "Prism Launcher Release 6.0, now available"
-    1.114 D Loaded news entry "Prism Launcher Release 5.2, now available"
-    1.114 D Loaded news entry "Prism Launcher Release 5.1, now available"
-    1.114 D Loaded news entry "Prism Launcher Release 5.0, now available"
-    1.114 D Loaded news entry "PolyMC Update 1.4.2, now available"
-    1.114 D Loaded news entry "PolyMC Update 1.4.1, now available"
-    1.114 D Loaded news entry "PolyMC Update 1.4.0, now available"
-    1.114 D Loaded news entry "PolyMC Update 1.3.2, now available"
-    1.114 D Loaded news entry "PolyMC Update 1.3.1, now available"
-    1.114 D Loaded news entry "PolyMC Update 1.3.0, now available"
-    1.114 D Loaded news entry "PolyMC Update 1.2.2, now available (CurseForge Hotfix)"
-    1.114 D Loaded news entry "PolyMC Update 1.2.1, now available"
-    1.114 D Loaded news entry "PolyMC Update 1.2.0, now available"
-    1.114 D Loaded news entry "PolyMC Update 1.1.1, now available"
-    1.114 D Loaded news entry "PolyMC Update 1.1.0, now available"
-    1.114 D Loaded news entry "Moving on"
-    1.114 D Loaded news entry "Modrinth support and Mod downloading"
-    1.114 D Loaded news entry "New maintainers and step down."
-    1.114 D News loading succeeded.
-   14.500 D Paged dialog close requested
-   14.500 D Sorting icon list...
-   14.500 D Detecting proxy settings...
-   14.500 D Using no proxy is an option!
-   14.500 D Paged dialog close approved
-   14.500 D Paged dialog geometry saved
-   14.521 D Discovering instances in "C:/Users/chara/Desktop/PrismLauncher-Windows-MSVC-Portable-6.1 - Copy - Copy/instances"
-   19.891 D Task "NetJob(Descarga del archivo meta net.minecraft/index.json)" starting for the first time
-   19.915 D Task "Net::Download(0x1b1eb993fe0)" starting for the first time
-   19.930 D Downloading  "https://meta.prismlauncher.org/v1/net.minecraft/index.json"
-   21.000 D Download succeeded: "https://meta.prismlauncher.org/v1/net.minecraft/index.json"
-   21.000 D Task "NetJob(Descarga del archivo meta net.minecraft/index.json)" succeeded
-   30.922 D Task "NetJob(Descarga del archivo meta net.minecraftforge/index.json)" starting for the first time
-   30.942 D Task "Net::Download(0x1b1eb8035b0)" starting for the first time
-   30.943 D Downloading  "https://meta.prismlauncher.org/v1/net.minecraftforge/index.json"
-   31.546 D Download succeeded: "https://meta.prismlauncher.org/v1/net.minecraftforge/index.json"
-   31.547 D Task "NetJob(Descarga del archivo meta net.minecraftforge/index.json)" succeeded
-   36.369 D Discovering instances in "C:/Users/chara/Desktop/PrismLauncher-Windows-MSVC-Portable-6.1 - Copy - Copy/instances"
-   36.369 D Discovering instances in "C:/Users/chara/Desktop/PrismLauncher-Windows-MSVC-Portable-6.1 - Copy - Copy/instances"
-   36.370 D Task "InstanceStaging(0x1b1eb88b5d0)" starting for the first time
-   36.370 D Task "VanillaCreationTask(0x1b1eb8002d0)" starting for the first time
-   36.372 D Component list save performed now for "Tierra de Tinieblas"
-   36.381 D Task "VanillaCreationTask(0x1b1eb8002d0)" succeeded
-   36.382 D Discovering instances in "C:/Users/chara/Desktop/PrismLauncher-Windows-MSVC-Portable-6.1 - Copy - Copy/instances"
-   36.383 D Found instance ID "Tierra de Tinieblas"
-   36.383 D Will load group list now.
-   36.384 D Loaded instance  "Tierra de Tinieblas"  from  "C:/Users/chara/Desktop/PrismLauncher-Windows-MSVC-Portable-6.1 - Copy - Copy/instances/Tierra de Tinieblas"
-   36.384 D Task "ComponentUpdateTask(0x1b1eb521ad0)" starting for the first time
-   36.384 D Loading components
-   36.384 C Task "ComponentUpdateTask(0x1b1eb521ad0)" failed:  "Fallaron algunas tareas de carga de metadata de componentes."
-   36.384 D Component list update/resolve task failed for "Tierra de Tinieblas" Reason: "Fallaron algunas tareas de carga de metadata de componentes."
-   36.387 D Will save group list now.
-   36.392 D Group list saved.
-   36.392 D Task "InstanceStaging(0x1b1eb88b5d0)" succeeded
-   40.754 D Task "ComponentUpdateTask(0x1b1eb50f5c0)" starting for the first time
-   40.754 D Loading components
-   40.754 D Task "NetJob(Descarga del archivo meta index.json)" starting for the first time
-   40.754 D Remote loading is being run for metadata index
-   40.754 D Task "NetJob(Descarga del archivo meta net.minecraft/1.16.5.json)" starting for the first time
-   40.754 D Remote loading is being run for "net.minecraft"
-   40.754 D Task "NetJob(Descarga del archivo meta net.minecraftforge/36.2.34.json)" starting for the first time
-   40.754 D Remote loading is being run for "net.minecraftforge"
-   40.786 D Instance-type specific settings were loaded!
-   40.786 D Applying "net.minecraft" ERROR
-   40.786 D Applying "net.minecraftforge" ERROR
-   40.865 D Task "Net::Download(0x1b1eba803d0)" starting for the first time
-   40.865 D Downloading  "https://meta.prismlauncher.org/v1/index.json"
-   40.865 D Task "Net::Download(0x1b1eba80d90)" starting for the first time
-   40.865 D Downloading  "https://meta.prismlauncher.org/v1/net.minecraft/1.16.5.json"
-   40.865 D Task "Net::Download(0x1b1eba81090)" starting for the first time
-   40.865 D Downloading  "https://meta.prismlauncher.org/v1/net.minecraftforge/36.2.34.json"
-   41.199 D Download succeeded: "https://meta.prismlauncher.org/v1/index.json"
-   41.199 D Task "NetJob(Descarga del archivo meta index.json)" succeeded
-   41.199 D Remote task 0 succeeded
-   41.212 D Download succeeded: "https://meta.prismlauncher.org/v1/net.minecraft/1.16.5.json"
-   41.212 D Task "NetJob(Descarga del archivo meta net.minecraft/1.16.5.json)" succeeded
-   41.212 D Remote task 1 succeeded
-   41.228 D Task "NetJob(Descarga del archivo meta net.minecraft/index.json)" starting for the first time
-   41.228 D Component list save is scheduled for "Tierra de Tinieblas"
-   41.228 D Download succeeded: "https://meta.prismlauncher.org/v1/net.minecraftforge/36.2.34.json"
-   41.228 D Task "NetJob(Descarga del archivo meta net.minecraftforge/36.2.34.json)" succeeded
-   41.228 D Remote task 2 succeeded
-   41.228 D Resolving dependencies
-   41.228 D "Req: net.minecraft == 1.16.5" Is met.
-   41.228 D "Req: org.lwjgl3" Is missing and should be added at 0
-   41.228 D Adding "org.lwjgl3" at position 0
-   41.228 D Index is already loaded
-   41.228 D Task "NetJob(Descarga del archivo meta org.lwjgl3/3.2.2.json)" starting for the first time
-   41.228 D Remote loading is being run for "org.lwjgl3"
-   41.228 D "Minecraft" is already loaded
-   41.228 D "Forge" is already loaded
-   41.242 D Task "Net::Download(0x1b1f1613210)" starting for the first time
-   41.242 D Downloading  "https://meta.prismlauncher.org/v1/net.minecraft/index.json"
-   41.242 D Task "Net::Download(0x1b1eb862b10)" starting for the first time
-   41.242 D Downloading  "https://meta.prismlauncher.org/v1/org.lwjgl3/3.2.2.json"
-   41.275 D Download succeeded: "https://meta.prismlauncher.org/v1/net.minecraft/index.json"
-   41.275 D Task "NetJob(Descarga del archivo meta net.minecraft/index.json)" succeeded
-   41.744 D Download succeeded: "https://meta.prismlauncher.org/v1/org.lwjgl3/3.2.2.json"
-   41.744 D Task "NetJob(Descarga del archivo meta org.lwjgl3/3.2.2.json)" succeeded
-   41.744 D Remote task 0 succeeded
-   41.744 D Resolving dependencies
-   41.744 D "Req: net.minecraft == 1.16.5" Is met.
-   41.744 D "Req: org.lwjgl3" Is met.
-   41.744 D Task "ComponentUpdateTask(0x1b1eb50f5c0)" succeeded
-   41.744 D Component list update/resolve task succeeded for "Tierra de Tinieblas"
-   44.758 D Task "NetJob(Descarga del archivo meta org.lwjgl3/index.json)" starting for the first time
-   44.761 D Task "Net::Download(0x1b1f11df830)" starting for the first time
-   44.761 D Downloading  "https://meta.prismlauncher.org/v1/org.lwjgl3/index.json"
-   45.097 D Download succeeded: "https://meta.prismlauncher.org/v1/org.lwjgl3/index.json"
-   45.097 D Task "NetJob(Descarga del archivo meta org.lwjgl3/index.json)" succeeded
-   47.236 D Patch "net.minecraft" is not customizable
-   49.753 D Component list save performed now for "Tierra de Tinieblas"
-   51.379 C Exception: "Unable to open C:/Users/chara/Desktop/PrismLauncher-Windows-MSVC-Portable-6.1 - Copy - Copy/instances/Tierra de Tinieblas/.minecraft/servers.dat for reading: The system cannot find the file specified."
-   52.614 D Server list save is scheduled for "C:/Users/chara/Desktop/PrismLauncher-Windows-MSVC-Portable-6.1 - Copy - Copy/instances/Tierra de Tinieblas/.minecraft"
-   74.479 D Server list about to be saved to "C:/Users/chara/Desktop/PrismLauncher-Windows-MSVC-Portable-6.1 - Copy - Copy/instances/Tierra de Tinieblas/.minecraft/servers.dat"
-   75.107 D [HttpMetaCache] Saving metacache with 20 entries
-   77.577 D Started watching  "C:/Users/chara/Desktop/PrismLauncher-Windows-MSVC-Portable-6.1 - Copy - Copy/instances/Tierra de Tinieblas/.minecraft/saves"
-   77.985 D Stopped watching  "C:/Users/chara/Desktop/PrismLauncher-Windows-MSVC-Portable-6.1 - Copy - Copy/instances/Tierra de Tinieblas/.minecraft/saves"
-  126.083 D Task "ComponentUpdateTask(0x1b1f1ceb960)" starting for the first time
-  126.083 D Loading components
-  126.083 D Index is already loaded
-  126.083 D Component list save is scheduled for "Tierra de Tinieblas"
-  126.090 D Task "NetJob(Descarga del archivo meta net.minecraftforge/36.2.34.json)" starting for the first time
-  126.090 D Remote loading is being run for "Forge"
-  126.106 D Applying "org.lwjgl3" GOOD
-  126.106 D Applying "net.minecraft" GOOD
-  126.106 D Applying "net.minecraftforge" GOOD
-  126.168 D Task "Net::Download(0x1b1eb8a7c60)" starting for the first time
-  126.187 D Downloading  "https://meta.prismlauncher.org/v1/net.minecraftforge/36.2.34.json"
-  126.594 D Download succeeded: "https://meta.prismlauncher.org/v1/net.minecraftforge/36.2.34.json"
-  126.594 D Task "NetJob(Descarga del archivo meta net.minecraftforge/36.2.34.json)" succeeded
-  126.594 D Remote task 0 succeeded
-  126.594 D Resolving dependencies
-  126.594 D "Req: net.minecraft == 1.16.5" Is met.
-  126.594 D "Req: org.lwjgl3" Is met.
-  126.594 D Task "ComponentUpdateTask(0x1b1f1ceb960)" succeeded
-  126.594 D Component list update/resolve task succeeded for "Tierra de Tinieblas"
-  131.080 D Component list save performed now for "Tierra de Tinieblas"
-  135.788 D Started watching  "C:/Users/chara/Desktop/PrismLauncher-Windows-MSVC-Portable-6.1 - Copy - Copy/instances/Tierra de Tinieblas/.minecraft/mods"
-  135.788 D Failed to start watching  "C:/Users/chara/Desktop/PrismLauncher-Windows-MSVC-Portable-6.1 - Copy - Copy/instances/Tierra de Tinieblas/.minecraft/mods/.index"
-  148.694 D Opening directory "C:/Users/chara/Desktop/PrismLauncher-Windows-MSVC-Portable-6.1 - Copy - Copy/instances/Tierra de Tinieblas/.minecraft/mods"
-  156.603 D [HttpMetaCache] Saving metacache with 20 entries
-  183.217 D Stopped watching  "C:/Users/chara/Desktop/PrismLauncher-Windows-MSVC-Portable-6.1 - Copy - Copy/instances/Tierra de Tinieblas/.minecraft/mods"
-  183.217 D Failed to stop watching  "C:/Users/chara/Desktop/PrismLauncher-Windows-MSVC-Portable-6.1 - Copy - Copy/instances/Tierra de Tinieblas/.minecraft/mods/.index"
-  187.231 D Task "ComponentUpdateTask(0x1b1f1cec410)" starting for the first time
-  187.231 D Loading components
-  187.231 D Index is already loaded
-  187.231 D Component list save is scheduled for "Tierra de Tinieblas"
-  187.247 D Resolving dependencies
-  187.247 D "Req: net.minecraft == 1.16.5" Is met.
-  187.247 D "Req: org.lwjgl3" Is met.
-  187.247 D Task "ComponentUpdateTask(0x1b1f1cec410)" succeeded
-  187.247 D Component list update/resolve task succeeded for "Tierra de Tinieblas"
-  187.263 D Applying "org.lwjgl3" GOOD
-  187.263 D Applying "net.minecraft" GOOD
-  187.263 D Applying "net.minecraftforge" GOOD
-  192.221 D Component list save performed now for "Tierra de Tinieblas"
- 1180.322 D Task "ComponentUpdateTask(0x1b1f1ce8a20)" starting for the first time
- 1180.322 D Loading components
- 1180.322 D Index is already loaded
- 1180.322 D Component list save is scheduled for "Tierra de Tinieblas"
- 1180.322 D Resolving dependencies
- 1180.322 D "Req: net.minecraft == 1.16.5" Is met.
- 1180.322 D "Req: org.lwjgl3" Is met.
- 1180.322 D Task "ComponentUpdateTask(0x1b1f1ce8a20)" succeeded
- 1180.322 D Component list update/resolve task succeeded for "Tierra de Tinieblas"
- 1180.337 D Applying "org.lwjgl3" GOOD
- 1180.337 D Applying "net.minecraft" GOOD
- 1180.337 D Applying "net.minecraftforge" GOOD
- 1185.314 D Component list save performed now for "Tierra de Tinieblas"
+    0.009 D <> Log initialized.
+    0.009 D <> No migration needed from "PolyMC"
+    0.009 D <> No migration needed from "MultiMC"
+    0.009 D "Prism Launcher" , (c) 2013-2021  "Prism Launcher Contributors\n© 2021-2022 PolyMC Contributors \n© 2012-2021 MultiMC Contributors"
+    0.009 D Version                    :  "6.1"
+    0.009 D Git commit                 :  "cb8c389303fe774003b49919a8ef6ded55e1c2b8"
+    0.009 D Git refspec                :  ""
+    0.009 D Work dir before adjustment :  "C:/Users/chara/GitHub/Tierra de Tinieblas/Launcher"
+    0.009 D Work dir after adjustment  :  "C:/Users/chara/GitHub/Tierra de Tinieblas/Launcher"
+    0.010 D Adjusted by                :  "Portable data path"
+    0.010 D Binary path                :  "C:/Users/chara/GitHub/Tierra de Tinieblas/Launcher"
+    0.010 D Application root path      :  "C:/Users/chara/GitHub/Tierra de Tinieblas/Launcher"
+    0.010 D <> Paths set.
+    0.018 D Detected default console font: "Courier New" , substitutions: ""
+    0.022 D <> Settings loaded.
+    0.022 D Detecting proxy settings...
+    0.022 D Using no proxy is an option!
+    0.022 D <> Network done.
+    0.027 D Loading Application Language File for es_UY ...
+    0.027 D Your language is "es_UY"
+    0.027 D <> Translations loaded.
+    0.028 D Started watching  "C:/Users/chara/GitHub/Tierra de Tinieblas/Launcher/icons"
+    0.028 D Sorting icon list...
+    0.028 D <> Instance icons intialized.
+    0.030 D [Theme] <> Icon themes initialized.
+    0.030 D [Theme] <> Initializing Widget Themes
+    0.030 D [Theme] Determining System Theme...
+    0.030 D [Theme] System theme seems to be: "windowsvista"
+    0.030 D [Theme] Considering theme from theme factory: "windowsvista"
+    0.030 D [Theme] System theme has been determined to be: "windowsvista"
+    0.030 D [Theme] Loading Built-in Theme: "system"
+    0.030 D [Theme] Loading Built-in Theme: "dark"
+    0.030 D [Theme] Loading Built-in Theme: "bright"
+    0.030 D [Theme] Theme Folder Path:  "C:/Users/chara/GitHub/Tierra de Tinieblas/Launcher/themes"
+    0.030 D [Theme] <> Widget themes initialized.
+    0.030 D Instance path              :  "instances"
+    0.030 D Loading Instances...
+    0.030 D Discovering instances in "C:/Users/chara/GitHub/Tierra de Tinieblas/Launcher/instances"
+    0.031 D Found instance ID "Tierra de Tinieblas"
+    0.031 D Will load group list now.
+    0.031 D Group list loaded.
+    0.032 D Loaded instance  "Tierra de Tinieblas"  from  "C:/Users/chara/GitHub/Tierra de Tinieblas/Launcher/instances/Tierra de Tinieblas"
+    0.032 D <> Instances loaded.
+    0.032 D Loading accounts...
+    0.032 D AccountList: Queued default account with internal ID  "84c09b32bb264abf90d737c208d05776"  to refresh first
+    0.032 D Task "OfflineRefresh(0x22da5143640)" starting for the first time
+    0.032 D AuthFlow: "Creating offline account."
+    0.032 D Task "OfflineRefresh(0x22da5143640)" succeeded
+    0.032 D Writing account list to "accounts.json"
+    0.032 D Building JSON data structure.
+    0.032 D Building account array.
+    0.032 D Writing account list to file.
+    0.034 D Saved account list to "accounts.json"
+    0.034 D RefreshSchedule: Background account refresh succeeded
+    0.034 D RefreshSchedule: Processing account  "<Offline>"  with internal ID  "84c09b32bb264abf90d737c208d05776"
+    0.034 D <> Accounts loaded.
+    0.035 D <> Cache initialized.
+    0.035 D Downloading Translations Index...
+    0.035 W Removing cache entry because of old age!
+    0.035 D Task "NetJob(Translations Index)" starting for the first time
+    0.046 D <> Icon theme set.
+    0.046 D [Theme] applying theme "Sistema"
+    0.046 D <> Application theme set.
+    0.217 D Reloading news.
+    0.217 D Task "NetJob(News RSS Feed)" starting for the first time
+    0.218 D Task "ComponentUpdateTask(0x22da930bd30)" starting for the first time
+    0.218 D Loading components
+    0.224 D Component list save is scheduled for "Tierra de Tinieblas"
+    0.232 D Resolving dependencies
+    0.232 D "Req: net.minecraft == 1.16.5" Is met.
+    0.232 D "Req: org.lwjgl3" Is met.
+    0.232 D Task "ComponentUpdateTask(0x22da930bd30)" succeeded
+    0.232 D Component list update/resolve task succeeded for "Tierra de Tinieblas"
+    0.308 D <> Main window shown.
+    0.321 D Task "Net::Download(0x22da7328590)" starting for the first time
+    0.322 D Downloading  "https://i18n.prismlauncher.org/index_v2.json"
+    0.431 D Task "Net::Download(0x22da7329e50)" starting for the first time
+    0.432 D Downloading  "https://prismlauncher.org/feed/feed.xml"
+    0.460 D Dir changed: "C:/Users/chara/GitHub/Tierra de Tinieblas/Launcher/translations"
+    0.461 D Loading Application Language File for es_UY ...
+    0.674 D Download succeeded: "https://i18n.prismlauncher.org/index_v2.json"
+    0.674 D Task "NetJob(Translations Index)" succeeded
+    0.674 D Got translations index!
+    0.674 W Removing cache entry because of old age!
+    0.674 D Task "NetJob(Translation for es_UY)" starting for the first time
+    0.674 D Dir changed: "C:/Users/chara/GitHub/Tierra de Tinieblas/Launcher/translations"
+    0.677 D Loading Application Language File for es_UY ...
+    0.677 D Dir changed: "C:/Users/chara/GitHub/Tierra de Tinieblas/Launcher/translations"
+    0.678 D Loading Application Language File for es_UY ...
+    0.678 D Task "Net::Download(0x22da94d4560)" starting for the first time
+    0.679 D Downloading  "https://i18n.prismlauncher.org/2287bd30b6b2fb8f20132700228828631f5b3420.class"
+    0.680 D Dir changed: "C:/Users/chara/GitHub/Tierra de Tinieblas/Launcher/translations"
+    0.681 D Loading Application Language File for es_UY ...
+    1.038 D Download succeeded: "https://i18n.prismlauncher.org/2287bd30b6b2fb8f20132700228828631f5b3420.class"
+    1.038 D Task "NetJob(Translation for es_UY)" succeeded
+    1.038 D Got translation: "es_UY"
+    1.039 D Loading Application Language File for es_UY ...
+    1.039 D Dir changed: "C:/Users/chara/GitHub/Tierra de Tinieblas/Launcher/translations"
+    1.042 D Loading Application Language File for es_UY ...
+    1.042 D Dir changed: "C:/Users/chara/GitHub/Tierra de Tinieblas/Launcher/translations"
+    1.045 D Loading Application Language File for es_UY ...
+    1.295 D Download succeeded: "https://prismlauncher.org/feed/feed.xml"
+    1.295 D Task "NetJob(News RSS Feed)" succeeded
+    1.295 D Finished loading RSS feed.
+    1.298 D Loaded news entry "Prism Launcher Release 6.1, now available"
+    1.298 D Loaded news entry "Prism Launcher Release 6.0, now available"
+    1.298 D Loaded news entry "Prism Launcher Release 5.2, now available"
+    1.298 D Loaded news entry "Prism Launcher Release 5.1, now available"
+    1.298 D Loaded news entry "Prism Launcher Release 5.0, now available"
+    1.298 D Loaded news entry "PolyMC Update 1.4.2, now available"
+    1.298 D Loaded news entry "PolyMC Update 1.4.1, now available"
+    1.298 D Loaded news entry "PolyMC Update 1.4.0, now available"
+    1.298 D Loaded news entry "PolyMC Update 1.3.2, now available"
+    1.298 D Loaded news entry "PolyMC Update 1.3.1, now available"
+    1.298 D Loaded news entry "PolyMC Update 1.3.0, now available"
+    1.298 D Loaded news entry "PolyMC Update 1.2.2, now available (CurseForge Hotfix)"
+    1.298 D Loaded news entry "PolyMC Update 1.2.1, now available"
+    1.298 D Loaded news entry "PolyMC Update 1.2.0, now available"
+    1.298 D Loaded news entry "PolyMC Update 1.1.1, now available"
+    1.298 D Loaded news entry "PolyMC Update 1.1.0, now available"
+    1.299 D Loaded news entry "Moving on"
+    1.299 D Loaded news entry "Modrinth support and Mod downloading"
+    1.299 D Loaded news entry "New maintainers and step down."
+    1.299 D News loading succeeded.
+    4.958 D Component list save performed now for "Tierra de Tinieblas"
+    4.966 D Task "ComponentUpdateTask(0x22da9313350)" starting for the first time
+    4.966 D Loading components
+    4.966 D Index is already loaded
+    4.966 D Component list save is scheduled for "Tierra de Tinieblas"
+    4.970 D Resolving dependencies
+    4.970 D "Req: net.minecraft == 1.16.5" Is met.
+    4.970 D "Req: org.lwjgl3" Is met.
+    4.970 D Task "ComponentUpdateTask(0x22da9313350)" succeeded
+    4.970 D Component list update/resolve task succeeded for "Tierra de Tinieblas"
+    4.972 W Removing cache entry because of old age!
+    4.972 D Task "NetJob(Descarga del archivo meta org.lwjgl3/index.json)" starting for the first time
+    4.996 D Instance-type specific settings were loaded!
+    5.004 D Applying "org.lwjgl3" GOOD
+    5.004 D Applying "net.minecraft" GOOD
+    5.004 D Applying "net.minecraftforge" GOOD
+    5.098 D Task "Net::Download(0x22da97709e0)" starting for the first time
+    5.098 D Downloading  "https://meta.prismlauncher.org/v1/org.lwjgl3/index.json"
+    5.555 D Download succeeded: "https://meta.prismlauncher.org/v1/org.lwjgl3/index.json"
+    5.555 D Task "NetJob(Descarga del archivo meta org.lwjgl3/index.json)" succeeded
+    6.998 D Opening directory "C:/Users/chara/GitHub/Tierra de Tinieblas/Launcher/instances/Tierra de Tinieblas"
+    9.955 D Component list save performed now for "Tierra de Tinieblas"
+   10.986 D Task "ComponentUpdateTask(0x22da930dcb0)" starting for the first time
+   10.986 D Loading components
+   10.986 D Index is already loaded
+   10.986 D Component list save is scheduled for "Tierra de Tinieblas"
+   10.989 D Resolving dependencies
+   10.989 D "Req: net.minecraft == 1.16.5" Is met.
+   10.989 D "Req: org.lwjgl3" Is met.
+   10.989 D Task "ComponentUpdateTask(0x22da930dcb0)" succeeded
+   10.989 D Component list update/resolve task succeeded for "Tierra de Tinieblas"
+   11.016 D Applying "org.lwjgl3" GOOD
+   11.017 D Applying "net.minecraft" GOOD
+   11.017 D Applying "net.minecraftforge" GOOD
+   15.983 D Component list save performed now for "Tierra de Tinieblas"
+   19.585 D Started watching  "C:/Users/chara/GitHub/Tierra de Tinieblas/Launcher/instances/Tierra de Tinieblas/.minecraft/mods"
+   19.585 D Failed to start watching  "C:/Users/chara/GitHub/Tierra de Tinieblas/Launcher/instances/Tierra de Tinieblas/.minecraft/mods/.index"
+   28.379 W Removing cache entry because of old age!
+   28.379 D Task "NetJob(Descarga del archivo meta net.minecraft/index.json)" starting for the first time
+   28.379 D Task "Net::Download(0x22dabf18050)" starting for the first time
+   28.380 D Downloading  "https://meta.prismlauncher.org/v1/net.minecraft/index.json"
+   28.691 D Download succeeded: "https://meta.prismlauncher.org/v1/net.minecraft/index.json"
+   28.691 D Task "NetJob(Descarga del archivo meta net.minecraft/index.json)" succeeded
+   28.696 D Task "NetJob(Modrinth::Search)" starting for the first time
+   28.717 D Task "Net::Download(0x22dabf190d0)" starting for the first time
+   28.717 D Downloading  "https://api.modrinth.com/v2/search?offset=0&limit=25&query=&index=relevance&facets=[[%22categories:forge%22],[%22versions:1.16.5%22],[%22project_type:mod%22]]"
+   29.171 D Download succeeded: "https://api.modrinth.com/v2/search?offset=0&limit=25&query=&index=relevance&facets=[[%22categories:forge%22],[%22versions:1.16.5%22],[%22project_type:mod%22]]"
+   29.177 D Task "NetJob(Modrinth::Search)" succeeded
+   29.179 D Task "NetJob(Modrinth Icon Download 9s6osm5g)" starting for the first time
+   29.184 D Task "NetJob(Modrinth Icon Download NNAgCjsB)" starting for the first time
+   29.184 D Task "NetJob(Modrinth Icon Download uXXizFIs)" starting for the first time
+   29.184 D Task "NetJob(Modrinth Icon Download lhGA9TYQ)" starting for the first time
+   29.187 D Task "Net::Download(0x22dabe68130)" starting for the first time
+   29.188 D Downloading  "https://cdn.modrinth.com/data/9s6osm5g/icon.png"
+   29.188 D Task "Net::Download(0x22dabe85160)" starting for the first time
+   29.189 D Downloading  "https://cdn.modrinth.com/data/NNAgCjsB/icon.png"
+   29.189 D Task "Net::Download(0x22dabe853a0)" starting for the first time
+   29.189 D Downloading  "https://cdn.modrinth.com/data/uXXizFIs/icon.jpg"
+   29.189 D Task "Net::Download(0x22dabe855e0)" starting for the first time
+   29.190 D Downloading  "https://cdn.modrinth.com/data/lhGA9TYQ/icon.png"
+   29.865 D Download succeeded: "https://cdn.modrinth.com/data/9s6osm5g/icon.png"
+   29.865 D Task "NetJob(Modrinth Icon Download 9s6osm5g)" succeeded
+   29.938 D Download succeeded: "https://cdn.modrinth.com/data/NNAgCjsB/icon.png"
+   29.938 D Task "NetJob(Modrinth Icon Download NNAgCjsB)" succeeded
+   29.957 D Download succeeded: "https://cdn.modrinth.com/data/uXXizFIs/icon.jpg"
+   29.957 D Task "NetJob(Modrinth Icon Download uXXizFIs)" succeeded
+   30.029 D Download succeeded: "https://cdn.modrinth.com/data/lhGA9TYQ/icon.png"
+   30.029 D Task "NetJob(Modrinth Icon Download lhGA9TYQ)" succeeded
+   31.581 D Stopped watching  "C:/Users/chara/GitHub/Tierra de Tinieblas/Launcher/instances/Tierra de Tinieblas/.minecraft/mods"
+   31.581 D Failed to stop watching  "C:/Users/chara/GitHub/Tierra de Tinieblas/Launcher/instances/Tierra de Tinieblas/.minecraft/mods/.index"
