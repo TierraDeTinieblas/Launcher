@@ -1,0 +1,32 @@
+{
+    "accounts": [
+        {
+            "active": true,
+            "entitlement": {
+                "canPlayMinecraft": true,
+                "ownsMinecraft": true
+            },
+            "profile": {
+                "capes": [
+                ],
+                "id": "0fec96d41f964499b90be23f3c97724e",
+                "name": "Default",
+                "skin": {
+                    "id": "",
+                    "url": "",
+                    "variant": ""
+                }
+            },
+            "type": "Offline",
+            "ygg": {
+                "extra": {
+                    "clientToken": "c5ce48c1171e4abda40e565ff54686a8",
+                    "userName": "Default"
+                },
+                "iat": 1672407372,
+                "token": "offline"
+            }
+        }
+    ],
+    "formatVersion": 3
+}

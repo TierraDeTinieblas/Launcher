@@ -1,0 +1,105 @@
+{
+    "entries": [
+        {
+            "base": "meta",
+            "current_age": 0,
+            "etag": "W/\"63ab5d64-601\"",
+            "last_changed_timestamp": 1672407465936,
+            "max_age": 600,
+            "md5sum": "bb69125d6ff8e59c26243fc16b6f1843",
+            "path": "index.json",
+            "remote_changed_timestamp": "Tue, 27 Dec 2022 21:02:28 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 0,
+            "etag": "W/\"63ab5d64-3be3\"",
+            "last_changed_timestamp": 1672407465956,
+            "max_age": 600,
+            "md5sum": "480d4a8cffe83e430291f3451d789db1",
+            "path": "net.minecraft/1.16.5.json",
+            "remote_changed_timestamp": "Tue, 27 Dec 2022 21:02:28 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 21,
+            "etag": "W/\"63ab5d64-5098a\"",
+            "last_changed_timestamp": 1672407445729,
+            "max_age": 600,
+            "md5sum": "308736c3e535059193224683b730a069",
+            "path": "net.minecraft/index.json",
+            "remote_changed_timestamp": "Tue, 27 Dec 2022 21:02:28 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 0,
+            "etag": "W/\"63ab5d64-7a6a\"",
+            "last_changed_timestamp": 1672407465985,
+            "max_age": 600,
+            "md5sum": "6a192729c34fb3fb283c4c0c43ecd499",
+            "path": "net.minecraftforge/36.2.34.json",
+            "remote_changed_timestamp": "Tue, 27 Dec 2022 21:02:28 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 0,
+            "etag": "W/\"63ab5d64-18a38a\"",
+            "last_changed_timestamp": 1672407456202,
+            "max_age": 600,
+            "md5sum": "43b31de529025058b307bf1cb37a1816",
+            "path": "net.minecraftforge/index.json",
+            "remote_changed_timestamp": "Tue, 27 Dec 2022 21:02:28 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 0,
+            "etag": "W/\"63ab5d64-e1a3\"",
+            "last_changed_timestamp": 1672407466487,
+            "max_age": 600,
+            "md5sum": "78a83d6c71a0c592a0a7881367bab155",
+            "path": "org.lwjgl3/3.2.2.json",
+            "remote_changed_timestamp": "Tue, 27 Dec 2022 21:02:28 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 0,
+            "etag": "W/\"63ab5d64-864\"",
+            "last_changed_timestamp": 1672407469833,
+            "max_age": 600,
+            "md5sum": "926c59d08ffddb9e864232ea6a3a0e66",
+            "path": "org.lwjgl3/index.json",
+            "remote_changed_timestamp": "Tue, 27 Dec 2022 21:02:28 GMT"
+        },
+        {
+            "base": "translations",
+            "current_age": 201,
+            "etag": "W/\"63aed75a-4870\"",
+            "last_changed_timestamp": 1672407234258,
+            "max_age": 600,
+            "md5sum": "9e46670d347ad01d95c9fd254103534e",
+            "path": "index_v2.json",
+            "remote_changed_timestamp": "Fri, 30 Dec 2022 12:19:38 GMT"
+        },
+        {
+            "base": "translations",
+            "current_age": 11,
+            "etag": "\"63aed75a-31af7\"",
+            "last_changed_timestamp": 1672407235826,
+            "max_age": 600,
+            "md5sum": "2af08f3b5e434d5dbcda4ab7ed819dfc",
+            "path": "mmc_en_GB.qm",
+            "remote_changed_timestamp": "Fri, 30 Dec 2022 12:19:38 GMT"
+        },
+        {
+            "base": "translations",
+            "current_age": 97,
+            "etag": "\"63aed75a-24c7a\"",
+            "last_changed_timestamp": 1672407237969,
+            "max_age": 600,
+            "md5sum": "91e73ae013cfc940e25d55878368e1ce",
+            "path": "mmc_es_UY.qm",
+            "remote_changed_timestamp": "Fri, 30 Dec 2022 12:19:38 GMT"
+        }
+    ],
+    "version": "1"
+}
