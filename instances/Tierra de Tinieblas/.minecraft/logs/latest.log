@@ -1,0 +1,108 @@
+[01Jan2023 15:23:49.420] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, Default, --version, 1.16.5, --gameDir, C:/Users/chara/GitHub/Tierra de Tinieblas/Launcher/instances/Tierra de Tinieblas/.minecraft, --assetsDir, C:/Users/chara/GitHub/Tierra de Tinieblas/Launcher/assets, --assetIndex, 1.16, --uuid, 0fec96d41f964499b90be23f3c97724e, --accessToken, ????????, --userType, offline, --versionType, release, --launchTarget, fmlclient, --fml.forgeVersion, 36.2.34, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210115.111550, --width, 854, --height, 480]
+[01Jan2023 15:23:49.423] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 1.8.0_352 by Temurin
+[01Jan2023 15:23:49.705] [main/ERROR] [net.minecraftforge.fml.loading.ModDirTransformerDiscoverer/]: Zip Error when loading jar file C:\Users\chara\GitHub\Tierra de Tinieblas\Launcher\instances\Tierra de Tinieblas\.minecraft\mods\[w] BiomesOPlenty-1.16.5-13.1.0.488-universal.jar
+java.util.zip.ZipException: error in opening zip file
+	at java.util.zip.ZipFile.open(Native Method) ~[?:1.8.0_352]
+	at java.util.zip.ZipFile.<init>(ZipFile.java:228) ~[?:1.8.0_352]
+	at java.util.zip.ZipFile.<init>(ZipFile.java:157) ~[?:1.8.0_352]
+	at java.util.zip.ZipFile.<init>(ZipFile.java:171) ~[?:1.8.0_352]
+	at net.minecraftforge.fml.loading.ModDirTransformerDiscoverer.visitFile(ModDirTransformerDiscoverer.java:75) ~[forge-1.16.5-36.2.34-launcher.jar:36.2]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:1.8.0_352]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:193) ~[?:1.8.0_352]
+	at java.util.Iterator.forEachRemaining(Iterator.java:116) ~[?:1.8.0_352]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801) ~[?:1.8.0_352]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:482) ~[?:1.8.0_352]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:472) ~[?:1.8.0_352]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:1.8.0_352]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:1.8.0_352]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:1.8.0_352]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:485) ~[?:1.8.0_352]
+	at net.minecraftforge.fml.loading.ModDirTransformerDiscoverer.scan(ModDirTransformerDiscoverer.java:65) ~[forge-1.16.5-36.2.34-launcher.jar:36.2]
+	at net.minecraftforge.fml.loading.ModDirTransformerDiscoverer.candidates(ModDirTransformerDiscoverer.java:37) ~[forge-1.16.5-36.2.34-launcher.jar:36.2]
+	at cpw.mods.modlauncher.TransformationServicesHandler.lambda$discoverServices$13(TransformationServicesHandler.java:137) ~[modlauncher-8.1.3.jar:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:193) [?:1.8.0_352]
+	at java.util.Iterator.forEachRemaining(Iterator.java:116) [?:1.8.0_352]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801) [?:1.8.0_352]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:482) [?:1.8.0_352]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:472) [?:1.8.0_352]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:708) [?:1.8.0_352]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) [?:1.8.0_352]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:566) [?:1.8.0_352]
+	at cpw.mods.modlauncher.TransformationServicesHandler.discoverServices(TransformationServicesHandler.java:137) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:75) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66) [modlauncher-8.1.3.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_352]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_352]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_352]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_352]
+	at io.github.zekerzhayard.forgewrapper.installer.Main.main(Main.java:57) [ForgeWrapper-mmc2.jar:mmc2]
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:88) [NewLaunch.jar:?]
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:126) [NewLaunch.jar:?]
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:71) [NewLaunch.jar:?]
+[01Jan2023 15:23:49.721] [main/ERROR] [net.minecraftforge.fml.loading.ModDirTransformerDiscoverer/]: Zip Error when loading jar file C:\Users\chara\GitHub\Tierra de Tinieblas\Launcher\instances\Tierra de Tinieblas\.minecraft\mods\[w] mysticalworld-1.16.5-0.3.6.27.jar
+java.util.zip.ZipException: error in opening zip file
+	at java.util.zip.ZipFile.open(Native Method) ~[?:1.8.0_352]
+	at java.util.zip.ZipFile.<init>(ZipFile.java:228) ~[?:1.8.0_352]
+	at java.util.zip.ZipFile.<init>(ZipFile.java:157) ~[?:1.8.0_352]
+	at java.util.zip.ZipFile.<init>(ZipFile.java:171) ~[?:1.8.0_352]
+	at net.minecraftforge.fml.loading.ModDirTransformerDiscoverer.visitFile(ModDirTransformerDiscoverer.java:75) ~[forge-1.16.5-36.2.34-launcher.jar:36.2]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:1.8.0_352]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:193) ~[?:1.8.0_352]
+	at java.util.Iterator.forEachRemaining(Iterator.java:116) ~[?:1.8.0_352]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801) ~[?:1.8.0_352]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:482) ~[?:1.8.0_352]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:472) ~[?:1.8.0_352]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:1.8.0_352]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:1.8.0_352]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:1.8.0_352]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:485) ~[?:1.8.0_352]
+	at net.minecraftforge.fml.loading.ModDirTransformerDiscoverer.scan(ModDirTransformerDiscoverer.java:65) ~[forge-1.16.5-36.2.34-launcher.jar:36.2]
+	at net.minecraftforge.fml.loading.ModDirTransformerDiscoverer.candidates(ModDirTransformerDiscoverer.java:37) ~[forge-1.16.5-36.2.34-launcher.jar:36.2]
+	at cpw.mods.modlauncher.TransformationServicesHandler.lambda$discoverServices$13(TransformationServicesHandler.java:137) ~[modlauncher-8.1.3.jar:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:193) [?:1.8.0_352]
+	at java.util.Iterator.forEachRemaining(Iterator.java:116) [?:1.8.0_352]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801) [?:1.8.0_352]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:482) [?:1.8.0_352]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:472) [?:1.8.0_352]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:708) [?:1.8.0_352]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) [?:1.8.0_352]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:566) [?:1.8.0_352]
+	at cpw.mods.modlauncher.TransformationServicesHandler.discoverServices(TransformationServicesHandler.java:137) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:75) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66) [modlauncher-8.1.3.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_352]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_352]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_352]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_352]
+	at io.github.zekerzhayard.forgewrapper.installer.Main.main(Main.java:57) [ForgeWrapper-mmc2.jar:mmc2]
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:88) [NewLaunch.jar:?]
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:126) [NewLaunch.jar:?]
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:71) [NewLaunch.jar:?]
+[01Jan2023 15:23:49.862] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[01Jan2023 15:23:49.901] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/C:/Users/chara/GitHub/Tierra%20de%20Tinieblas/Launcher/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=CLIENT
+[01Jan2023 15:23:49.942] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file C:\Users\chara\GitHub\Tierra de Tinieblas\Launcher\instances\Tierra de Tinieblas\.minecraft\config\fml.toml is not correct. Correcting
+[01Jan2023 15:23:49.948] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [defaultConfigPath] was corrected from null to defaultconfigs
+[01Jan2023 15:23:50.171] [main/INFO] [STDERR/]: [org.lwjgl.glfw.GLFWErrorCallback$1:invoke:105]: 	Description : WGL: The driver does not appear to support OpenGL
+[01Jan2023 15:23:50.171] [main/INFO] [STDERR/]: [org.lwjgl.glfw.GLFWErrorCallback$1:invoke:106]: 	Stacktrace  :
+[01Jan2023 15:23:50.172] [main/INFO] [STDERR/]: [org.lwjgl.glfw.GLFWErrorCallback$1:invoke:110]: org.lwjgl.glfw.GLFW.nglfwCreateWindow(GLFW.java:1714)
+[01Jan2023 15:23:50.172] [main/INFO] [STDERR/]: [org.lwjgl.glfw.GLFWErrorCallback$1:invoke:110]: org.lwjgl.glfw.GLFW.glfwCreateWindow(GLFW.java:1897)
+[01Jan2023 15:23:50.173] [main/INFO] [STDERR/]: [org.lwjgl.glfw.GLFWErrorCallback$1:invoke:110]: net.minecraftforge.fml.loading.progress.ClientVisualization.initWindow(ClientVisualization.java:103)
+[01Jan2023 15:23:50.173] [main/INFO] [STDERR/]: [org.lwjgl.glfw.GLFWErrorCallback$1:invoke:110]: net.minecraftforge.fml.loading.progress.ClientVisualization.start(ClientVisualization.java:349)
+[01Jan2023 15:23:50.173] [main/INFO] [STDERR/]: [org.lwjgl.glfw.GLFWErrorCallback$1:invoke:110]: net.minecraftforge.fml.loading.progress.EarlyProgressVisualization.accept(EarlyProgressVisualization.java:43)
+[01Jan2023 15:23:50.173] [main/INFO] [STDERR/]: [org.lwjgl.glfw.GLFWErrorCallback$1:invoke:110]: net.minecraftforge.fml.loading.FMLLoader.setupLaunchHandler(FMLLoader.java:190)
+[01Jan2023 15:23:50.174] [main/INFO] [STDERR/]: [org.lwjgl.glfw.GLFWErrorCallback$1:invoke:110]: net.minecraftforge.fml.loading.FMLServiceProvider.initialize(FMLServiceProvider.java:94)
+[01Jan2023 15:23:50.174] [main/INFO] [STDERR/]: [org.lwjgl.glfw.GLFWErrorCallback$1:invoke:110]: cpw.mods.modlauncher.TransformationServiceDecorator.onInitialize(TransformationServiceDecorator.java:68)
+[01Jan2023 15:23:50.174] [main/INFO] [STDERR/]: [org.lwjgl.glfw.GLFWErrorCallback$1:invoke:110]: cpw.mods.modlauncher.TransformationServicesHandler.lambda$initialiseTransformationServices$7(TransformationServicesHandler.java:107)
+[01Jan2023 15:23:50.175] [main/INFO] [STDERR/]: [org.lwjgl.glfw.GLFWErrorCallback$1:invoke:110]: java.util.HashMap$Values.forEach(HashMap.java:982)
+[01Jan2023 15:23:50.175] [main/INFO] [STDERR/]: [org.lwjgl.glfw.GLFWErrorCallback$1:invoke:110]: cpw.mods.modlauncher.TransformationServicesHandler.initialiseTransformationServices(TransformationServicesHandler.java:107)
+[01Jan2023 15:23:50.175] [main/INFO] [STDERR/]: [org.lwjgl.glfw.GLFWErrorCallback$1:invoke:110]: cpw.mods.modlauncher.TransformationServicesHandler.initializeTransformationServices(TransformationServicesHandler.java:59)
+[01Jan2023 15:23:50.175] [main/INFO] [STDERR/]: [org.lwjgl.glfw.GLFWErrorCallback$1:invoke:110]: cpw.mods.modlauncher.Launcher.run(Launcher.java:76)
+[01Jan2023 15:23:50.176] [main/INFO] [STDERR/]: [org.lwjgl.glfw.GLFWErrorCallback$1:invoke:110]: cpw.mods.modlauncher.Launcher.main(Launcher.java:66)
+[01Jan2023 15:23:50.176] [main/INFO] [STDERR/]: [org.lwjgl.glfw.GLFWErrorCallback$1:invoke:110]: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[01Jan2023 15:23:50.176] [main/INFO] [STDERR/]: [org.lwjgl.glfw.GLFWErrorCallback$1:invoke:110]: sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[01Jan2023 15:23:50.176] [main/INFO] [STDERR/]: [org.lwjgl.glfw.GLFWErrorCallback$1:invoke:110]: sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[01Jan2023 15:23:50.176] [main/INFO] [STDERR/]: [org.lwjgl.glfw.GLFWErrorCallback$1:invoke:110]: java.lang.reflect.Method.invoke(Method.java:498)
+[01Jan2023 15:23:50.177] [main/INFO] [STDERR/]: [org.lwjgl.glfw.GLFWErrorCallback$1:invoke:110]: io.github.zekerzhayard.forgewrapper.installer.Main.main(Main.java:57)
+[01Jan2023 15:23:50.177] [main/INFO] [STDERR/]: [org.lwjgl.glfw.GLFWErrorCallback$1:invoke:110]: org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:88)
+[01Jan2023 15:23:50.177] [main/INFO] [STDERR/]: [org.lwjgl.glfw.GLFWErrorCallback$1:invoke:110]: org.prismlauncher.EntryPoint.listen(EntryPoint.java:126)
+[01Jan2023 15:23:50.177] [main/INFO] [STDERR/]: [org.lwjgl.glfw.GLFWErrorCallback$1:invoke:110]: org.prismlauncher.EntryPoint.main(EntryPoint.java:71)
