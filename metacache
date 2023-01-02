@@ -846,19 +846,19 @@
         },
         {
             "base": "meta",
-            "current_age": 0,
-            "etag": "W/\"63b0bf71-864\"",
-            "last_changed_timestamp": 1672586471707,
+            "current_age": 399,
+            "etag": "W/\"63b2655a-864\"",
+            "last_changed_timestamp": 1672681537752,
             "max_age": 600,
             "md5sum": "926c59d08ffddb9e864232ea6a3a0e66",
             "path": "org.lwjgl3/index.json",
-            "remote_changed_timestamp": "Sat, 31 Dec 2022 23:02:09 GMT"
+            "remote_changed_timestamp": "Mon, 02 Jan 2023 05:02:18 GMT"
         },
         {
             "base": "translations",
-            "current_age": 0,
+            "current_age": 61,
             "etag": "W/\"63b2cc2a-486f\"",
-            "last_changed_timestamp": 1672672359272,
+            "last_changed_timestamp": 1672681531782,
             "max_age": 600,
             "md5sum": "b1647d7a4b59ea06106f322aa13b9d31",
             "path": "index_v2.json",
@@ -876,9 +876,9 @@
         },
         {
             "base": "translations",
-            "current_age": 0,
+            "current_age": 428,
             "etag": "\"63b2cc2a-24c7a\"",
-            "last_changed_timestamp": 1672672359685,
+            "last_changed_timestamp": 1672681531898,
             "max_age": 600,
             "md5sum": "91e73ae013cfc940e25d55878368e1ce",
             "path": "mmc_es_UY.qm",

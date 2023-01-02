@@ -1,10 +1,10 @@
 version:2586
-autoJump:true
+autoJump:false
 autoSuggestions:true
 chatColors:true
 chatLinks:true
 chatLinksPrompt:true
-enableVsync:true
+enableVsync:false
 entityShadows:true
 forceUnicodeFont:false
 discrete_mouse_scroll:false
@@ -19,20 +19,20 @@ bobView:true
 toggleCrouch:false
 toggleSprint:false
 mouseSensitivity:0.5
-fov:0.0
+fov:0.75
 screenEffectScale:1.0
 fovEffectScale:1.0
 gamma:0.0
-renderDistance:12
+renderDistance:8
 entityDistanceScaling:1.0
-guiScale:0
-particles:0
-maxFps:120
+guiScale:2
+particles:2
+maxFps:60
 difficulty:2
-graphicsMode:1
+graphicsMode:0
 ao:2
 biomeBlendRadius:2
-renderClouds:true
+renderClouds:fast
 resourcePacks:[]
 incompatibleResourcePacks:[]
 lastServer:
@@ -88,8 +88,8 @@ key_key.smoothCamera:key.keyboard.unknown
 key_key.fullscreen:key.keyboard.f11
 key_key.spectatorOutlines:key.keyboard.unknown
 key_key.swapOffhand:key.keyboard.f
-key_key.saveToolbarActivator:key.keyboard.c
-key_key.loadToolbarActivator:key.keyboard.x
+key_key.saveToolbarActivator:key.keyboard.unknown
+key_key.loadToolbarActivator:key.keyboard.unknown
 key_key.advancements:key.keyboard.l
 key_key.hotbar.1:key.keyboard.1
 key_key.hotbar.2:key.keyboard.2
@@ -107,10 +107,10 @@ key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
 key_key.carry.desc:key.keyboard.left.shift
 key_key.emotecraft.fastchoose:key.keyboard.b
 key_key.emotecraft.stop:key.keyboard.unknown
-key_Scene1 start/pause:key.keyboard.keypad.1
-key_Scene2 start/pause:key.keyboard.keypad.2
-key_Scene3 start/pause:key.keyboard.keypad.3
-key_Scene reset:key.keyboard.keypad.0
+key_Scene1 start/pause:key.keyboard.unknown
+key_Scene2 start/pause:key.keyboard.unknown
+key_Scene3 start/pause:key.keyboard.unknown
+key_Scene reset:key.keyboard.unknown
 key_Quest Log:key.keyboard.l
 key_hats.key.hatsMenu:key.keyboard.h
 key_key.waila.config:key.keyboard.keypad.0
@@ -129,13 +129,16 @@ key_key.spartanweaponry.access_quiver:key.keyboard.i
 key_chineseworkshop.keybind.select:key.keyboard.left.alt
 key_key.vehicle.horn:key.keyboard.h
 key_key.vehicle.cycle_seats:key.keyboard.c
+key_weaponthrow.throw:key.keyboard.r
 key_key.cgm.reload:key.keyboard.r
 key_key.cgm.unload:key.keyboard.u
 key_key.cgm.attachments:key.keyboard.z
-key_weaponthrow.throw:key.keyboard.r
 key_walljump.key.walljump:key.keyboard.left.shift
 key_key.horsecombatcontrols.toggle:key.keyboard.y
 key_key.diet.open.desc:key.keyboard.unknown
+key_quark.keybind.lock_rotation:key.keyboard.k
+key_quark.keybind.autorun:key.keyboard.caps.lock
+key_quark.keybind.camera_mode:key.keyboard.f12
 key_key.push_to_talk:key.keyboard.caps.lock
 key_key.whisper:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.m
@@ -146,15 +149,15 @@ key_key.voice_chat_settings:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.g
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
-key_quark.keybind.autorun:key.keyboard.caps.lock
-key_quark.keybind.camera_mode:key.keyboard.f12
-key_quark.keybind.back:key.mouse.4
-key_key.securitycraft.cameraZoomIn:key.keyboard.equal
-key_key.securitycraft.cameraZoomOut:key.keyboard.minus
-key_key.securitycraft.cameraEmitRedstone:key.keyboard.r
-key_key.securitycraft.cameraActivateNightVision:key.keyboard.n
-key_quark.keybind.lock_rotation:key.keyboard.k
 key_quark.keybind.change_hotbar:key.keyboard.z
+key_quark.keybind.transfer_insert:key.keyboard.unknown
+key_quark.keybind.transfer_extract:key.keyboard.unknown
+key_quark.keybind.shift_lock:key.keyboard.unknown
+key_quark.keybind.sort_player:key.keyboard.unknown
+key_quark.keybind.sort_container:key.keyboard.unknown
+key_quark.keybind.back:key.mouse.4
+key_cos.key.opencosarmorinventory:key.keyboard.unknown
+key_mod.chiselsandbits.keys.key.modded-tool.open:key.keyboard.r
 key_quark.emote.no:key.keyboard.unknown
 key_quark.emote.yes:key.keyboard.unknown
 key_quark.emote.wave:key.keyboard.unknown
@@ -173,15 +176,12 @@ key_quark.keybind.patreon_emote.dab:key.keyboard.unknown
 key_quark.keybind.patreon_emote.jet:key.keyboard.unknown
 key_quark.keybind.patreon_emote.exorcist:key.keyboard.unknown
 key_quark.keybind.patreon_emote.zombie:key.keyboard.unknown
-key_quark.keybind.sort_player:key.keyboard.unknown
-key_quark.keybind.sort_container:key.keyboard.unknown
-key_cos.key.opencosarmorinventory:key.keyboard.unknown
-key_quark.keybind.transfer_insert:key.keyboard.unknown
-key_quark.keybind.transfer_extract:key.keyboard.unknown
-key_quark.keybind.shift_lock:key.keyboard.unknown
-key_mod.chiselsandbits.keys.key.modded-tool.open:key.keyboard.r
 key_mod.chiselsandbits.keys.key.modded-tool.cycle.left:key.keyboard.unknown
 key_mod.chiselsandbits.keys.key.modded-tool.cycle.right:key.keyboard.unknown
+key_key.securitycraft.cameraZoomIn:key.keyboard.equal
+key_key.securitycraft.cameraZoomOut:key.keyboard.minus
+key_key.securitycraft.cameraEmitRedstone:key.keyboard.r
+key_key.securitycraft.cameraActivateNightVision:key.keyboard.n
 key_mod.chiselsandbits.keys.key.measuring-tape.reset:key.mouse.right:SHIFT
 key_mod.chiselsandbits.keys.key.undo:key.keyboard.z:CONTROL
 key_mod.chiselsandbits.keys.key.redo:key.keyboard.y:CONTROL
