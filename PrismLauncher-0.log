@@ -11,228 +11,137 @@
     0.015 D Binary path                :  "C:/Users/chara/GitHub/TierraDeTinieblas/Launcher"
     0.015 D Application root path      :  "C:/Users/chara/GitHub/TierraDeTinieblas/Launcher"
     0.015 D <> Paths set.
-    0.082 D Detected default console font: "Courier New" , substitutions: ""
-    0.088 D <> Settings loaded.
-    0.091 D Detecting proxy settings...
-    0.091 D Using no proxy is an option!
-    0.091 D <> Network done.
-    0.132 D Loading Application Language File for es_UY ...
-    0.132 D Your language is "es_UY"
-    0.132 D <> Translations loaded.
-    0.138 D Started watching  "C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/icons"
-    0.138 D Sorting icon list...
-    0.138 D <> Instance icons intialized.
-    0.158 D [Theme] <> Icon themes initialized.
-    0.158 D [Theme] <> Initializing Widget Themes
-    0.159 D [Theme] Determining System Theme...
-    0.159 D [Theme] System theme seems to be: "windowsvista"
-    0.159 D [Theme] Considering theme from theme factory: "windowsvista"
-    0.159 D [Theme] System theme has been determined to be: "windowsvista"
-    0.159 D [Theme] Loading Built-in Theme: "system"
-    0.159 D [Theme] Loading Built-in Theme: "dark"
-    0.159 D [Theme] Loading Built-in Theme: "bright"
-    0.159 D [Theme] Theme Folder Path:  "C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/themes"
-    0.159 D [Theme] <> Widget themes initialized.
-    0.159 D Instance path              :  "instances"
-    0.159 D Loading Instances...
-    0.159 D Discovering instances in "C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/instances"
-    0.160 D Found instance ID "Tierra de Tinieblas"
-    0.160 D Will load group list now.
-    0.171 D Group list loaded.
-    0.182 D Loaded instance  "Tierra de Tinieblas"  from  "C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/instances/Tierra de Tinieblas"
-    0.182 D <> Instances loaded.
-    0.182 D Loading accounts...
-    0.191 D AccountList: Queued default account with internal ID  "a0d79dd55c79461db253406b5fafbf67"  to refresh first
-    0.193 D Task "OfflineRefresh(0x25cb5f25990)" starting for the first time
-    0.194 D AuthFlow: "Creating offline account."
-    0.194 D Task "OfflineRefresh(0x25cb5f25990)" succeeded
-    0.194 D Writing account list to "accounts.json"
-    0.194 D Building JSON data structure.
-    0.194 D Building account array.
-    0.194 D Writing account list to file.
-    0.197 D Saved account list to "accounts.json"
-    0.197 D RefreshSchedule: Background account refresh succeeded
-    0.197 D RefreshSchedule: Processing account  "<Offline>"  with internal ID  "a0d79dd55c79461db253406b5fafbf67"
-    0.197 D <> Accounts loaded.
-    0.206 D <> Cache initialized.
-    0.206 D Downloading Translations Index...
-    0.207 W Removing cache entry because of old age!
-    0.209 D Task "NetJob(Translations Index)" starting for the first time
-    0.224 D <> Icon theme set.
-    0.224 D [Theme] applying theme "Sistema"
-    0.224 D <> Application theme set.
-    0.568 D Reloading news.
-    0.568 D Task "NetJob(News RSS Feed)" starting for the first time
-    0.576 D Task "ComponentUpdateTask(0x25cba04e9e0)" starting for the first time
-    0.576 D Loading components
-    0.601 D Component list save is scheduled for "Tierra de Tinieblas"
-    0.621 D Resolving dependencies
-    0.622 D "Req: net.minecraft == 1.16.5" Is met.
-    0.622 D "Req: org.lwjgl3" Is met.
-    0.622 D Task "ComponentUpdateTask(0x25cba04e9e0)" succeeded
-    0.622 D Component list update/resolve task succeeded for "Tierra de Tinieblas"
-    0.775 D <> Main window shown.
-    0.776 D Task "Net::Download(0x25cb99ae140)" starting for the first time
-    0.778 D Downloading  "https://i18n.prismlauncher.org/index_v2.json"
-    0.862 D Task "Net::Download(0x25cba186420)" starting for the first time
-    0.862 D Downloading  "https://prismlauncher.org/feed/feed.xml"
-    0.888 D Dir changed: "C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/translations"
-    0.891 D Loading Application Language File for es_UY ...
-    1.209 D Download succeeded: "https://i18n.prismlauncher.org/index_v2.json"
-    1.210 D Task "NetJob(Translations Index)" succeeded
-    1.210 D Got translations index!
-    1.210 W Removing cache entry because of old age!
-    1.210 D Task "NetJob(Translation for es_UY)" starting for the first time
-    1.210 D Dir changed: "C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/translations"
-    1.219 D Loading Application Language File for es_UY ...
-    1.219 D Dir changed: "C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/translations"
-    1.221 D Loading Application Language File for es_UY ...
-    1.222 D Task "Net::Download(0x25cba29d700)" starting for the first time
-    1.222 D Downloading  "https://i18n.prismlauncher.org/2287bd30b6b2fb8f20132700228828631f5b3420.class"
-    1.225 D Dir changed: "C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/translations"
-    1.227 D Loading Application Language File for es_UY ...
-    1.329 D Download succeeded: "https://i18n.prismlauncher.org/2287bd30b6b2fb8f20132700228828631f5b3420.class"
-    1.329 D Task "NetJob(Translation for es_UY)" succeeded
-    1.329 D Got translation: "es_UY"
-    1.344 D Loading Application Language File for es_UY ...
-    1.344 D Dir changed: "C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/translations"
-    1.346 D Loading Application Language File for es_UY ...
-    1.347 D Dir changed: "C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/translations"
-    1.349 D Loading Application Language File for es_UY ...
-    1.521 D Download succeeded: "https://prismlauncher.org/feed/feed.xml"
-    1.521 D Task "NetJob(News RSS Feed)" succeeded
-    1.521 D Finished loading RSS feed.
-    1.529 D Loaded news entry "Prism Launcher Release 6.1, now available"
-    1.529 D Loaded news entry "Prism Launcher Release 6.0, now available"
-    1.529 D Loaded news entry "Prism Launcher Release 5.2, now available"
-    1.529 D Loaded news entry "Prism Launcher Release 5.1, now available"
-    1.529 D Loaded news entry "Prism Launcher Release 5.0, now available"
-    1.529 D Loaded news entry "PolyMC Update 1.4.2, now available"
-    1.529 D Loaded news entry "PolyMC Update 1.4.1, now available"
-    1.529 D Loaded news entry "PolyMC Update 1.4.0, now available"
-    1.529 D Loaded news entry "PolyMC Update 1.3.2, now available"
-    1.529 D Loaded news entry "PolyMC Update 1.3.1, now available"
-    1.529 D Loaded news entry "PolyMC Update 1.3.0, now available"
-    1.529 D Loaded news entry "PolyMC Update 1.2.2, now available (CurseForge Hotfix)"
-    1.529 D Loaded news entry "PolyMC Update 1.2.1, now available"
-    1.529 D Loaded news entry "PolyMC Update 1.2.0, now available"
-    1.529 D Loaded news entry "PolyMC Update 1.1.1, now available"
-    1.530 D Loaded news entry "PolyMC Update 1.1.0, now available"
-    1.530 D Loaded news entry "Moving on"
-    1.530 D Loaded news entry "Modrinth support and Mod downloading"
-    1.530 D Loaded news entry "New maintainers and step down."
-    1.530 D News loading succeeded.
-    5.610 D Component list save performed now for "Tierra de Tinieblas"
-    6.616 D Task "ComponentUpdateTask(0x25cba0548f0)" starting for the first time
-    6.616 D Loading components
-    6.616 D Index is already loaded
-    6.616 D Component list save is scheduled for "Tierra de Tinieblas"
-    6.621 D Resolving dependencies
-    6.621 D "Req: net.minecraft == 1.16.5" Is met.
-    6.621 D "Req: org.lwjgl3" Is met.
-    6.621 D Task "ComponentUpdateTask(0x25cba0548f0)" succeeded
-    6.621 D Component list update/resolve task succeeded for "Tierra de Tinieblas"
-    6.631 D Task "NetJob(Descarga del archivo meta org.lwjgl3/index.json)" starting for the first time
-    6.669 D Instance-type specific settings were loaded!
-    6.765 D Applying "org.lwjgl3" GOOD
-    6.765 D Applying "net.minecraft" GOOD
-    6.765 D Applying "net.minecraftforge" GOOD
-    6.849 D Task "Net::Download(0x25cba29d040)" starting for the first time
-    6.850 D Downloading  "https://meta.prismlauncher.org/v1/org.lwjgl3/index.json"
-    7.181 D Download succeeded: "https://meta.prismlauncher.org/v1/org.lwjgl3/index.json"
-    7.181 D Task "NetJob(Descarga del archivo meta org.lwjgl3/index.json)" succeeded
-   11.617 D Component list save performed now for "Tierra de Tinieblas"
-   37.185 D [HttpMetaCache] Saving metacache with 20 entries
-  137.804 D Task "LaunchController(0x25cba200b30)" starting for the first time
-  138.705 D Task "LaunchTask(0x25cba1f4690)" starting for the first time
-  138.705 D Task "TextPrint(0x25cbc0b4c80)" starting for the first time
-  138.713 D Task "TextPrint(0x25cbc0b4c80)" succeeded
-  138.713 D Task "TextPrint(0x25cbc0b3680)" starting for the first time
-  138.713 D Task "TextPrint(0x25cbc0b3680)" succeeded
-  138.713 D Task "TextPrint(0x25cbc0b4180)" starting for the first time
-  138.713 D Task "TextPrint(0x25cbc0b4180)" succeeded
-  138.713 D Task "TextPrint(0x25cbc0b5200)" starting for the first time
-  138.713 D Task "TextPrint(0x25cbc0b5200)" succeeded
-  138.714 D Task "CheckJava(0x25cba61b450)" starting for the first time
-  138.714 D "Running java checker: C:/Program Files/Eclipse Adoptium/jre-8.0.352.8-hotspot/bin/javaw.exe-jar C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/jars/JavaCheck.jar"
-  139.034 D STDOUT "os.arch=amd64\njava.version=1.8.0_352\njava.vendor=Temurin\n"
-  139.034 W STDERR ""
-  139.034 D Java checker finished with status  QProcess::NormalExit  exit code  0
-  139.034 D Java checker succeeded.
-  139.040 C "Error changing setting JavaVendor. Setting doesn't exist."
-  139.042 D Task "CheckJava(0x25cba61b450)" succeeded
-  139.042 D Task "CreateGameFolders(0x25cba050570)" starting for the first time
-  139.042 D Task "CreateGameFolders(0x25cba050570)" succeeded
-  139.042 D Task "ClaimAccount(0x25cbc0b3e10)" starting for the first time
-  139.042 D Writing account list to "accounts.json"
-  139.042 D Building JSON data structure.
-  139.042 D Building account array.
-  139.042 D Writing account list to file.
-  139.045 D Saved account list to "accounts.json"
-  139.045 W Profile "0fec96d41f964499b90be23f3c97724e" is now in use.
-  139.045 D Task "ClaimAccount(0x25cbc0b3e10)" succeeded
-  139.045 D Task "Update(0x25cbc0b3f70)" starting for the first time
-  139.046 D Task "MinecraftUpdate(0x25cba1f4e70)" starting for the first time
-  139.046 D Task "ComponentUpdateTask(0x25cba052730)" starting for the first time
-  139.046 D Loading components
-  139.046 D Index is already loaded
-  139.047 D Component list save is scheduled for "Tierra de Tinieblas"
-  139.049 D Resolving dependencies
-  139.049 D "Req: net.minecraft == 1.16.5" Is met.
-  139.049 D "Req: org.lwjgl3" Is met.
-  139.049 D Task "ComponentUpdateTask(0x25cba052730)" succeeded
-  139.049 D Component list update/resolve task succeeded for "Tierra de Tinieblas"
-  139.049 D Task "FoldersTask(0x25cba051a40)" starting for the first time
-  139.049 D Task "FoldersTask(0x25cba051a40)" succeeded
-  139.049 D Task "LibrariesTask(0x25cba327150)" starting for the first time
-  139.049 D "Tierra de Tinieblas" : downloading libraries
-  139.049 D Applying "org.lwjgl3" GOOD
-  139.049 D Applying "net.minecraft" GOOD
-  139.050 D Applying "net.minecraftforge" GOOD
-  139.059 D Task "NetJob(Librerias para la instancia Tierra de Tinieblas)" starting for the first time
-  139.071 D Task "NetJob(Librerias para la instancia Tierra de Tinieblas)" succeeded
-  139.071 D Task "LibrariesTask(0x25cba327150)" succeeded
-  139.071 D Task "FMLLibrariesTask(0x25cba48bb40)" starting for the first time
-  139.071 D Task "FMLLibrariesTask(0x25cba48bb40)" succeeded
-  139.071 D Task "AssetUpdateTask(0x25cba3273d0)" starting for the first time
-  139.072 D Asset index SHA1: "28680197f74e5e1d55054f6a63509c8298d428f9"
-  139.072 D "Tierra de Tinieblas" : Starting asset index download
-  139.072 D Task "NetJob(Índice de recursos para Tierra de Tinieblas)" starting for the first time
-  139.085 D Task "Net::Download(0x25cba48be40)" starting for the first time
-  139.085 D Downloading  "https://piston-meta.mojang.com/v1/packages/28680197f74e5e1d55054f6a63509c8298d428f9/1.16.json"
-  139.704 D Download succeeded: "https://piston-meta.mojang.com/v1/packages/28680197f74e5e1d55054f6a63509c8298d428f9/1.16.json"
-  139.708 D Task "NetJob(Índice de recursos para Tierra de Tinieblas)" succeeded
-  139.708 D "Tierra de Tinieblas" : Finished asset index download
-  140.086 D Task "AssetUpdateTask(0x25cba3273d0)" succeeded
-  140.086 D Task "MinecraftUpdate(0x25cba1f4e70)" succeeded
-  140.086 D Task "Update(0x25cbc0b3f70)" succeeded
-  140.091 D Task "ModMinecraftJar(0x25cba04ed40)" starting for the first time
-  140.091 D Task "ModMinecraftJar(0x25cba04ed40)" succeeded
-  140.091 D Task "ScanModFolders(0x25cba45d950)" starting for the first time
-  140.113 D Task "ConcurrentTask(0x25cba4ce1f8)" starting for the first time
-  140.113 D Task "ConcurrentTask(0x25cba4ce1f8)" starting for the first time
-  140.113 D Task "ScanModFolders(0x25cba45d950)" succeeded
-  140.114 D Task "PrintInstanceInfo(0x25cbc0b4020)" starting for the first time
-  140.115 W The launcher tried to start task "ConcurrentTask(0x25cba4ce1f8)" while it was already running!
-  140.131 D Task "PrintInstanceInfo(0x25cbc0b4020)" succeeded
-  140.132 D Task "ExtractNatives(0x25cba0504e0)" starting for the first time
-  140.383 D Task "ExtractNatives(0x25cba0504e0)" succeeded
-  140.383 D Task "ReconstructAssets(0x25cba04fac0)" starting for the first time
-  140.383 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/1.16"
-  140.400 D Task "ReconstructAssets(0x25cba04fac0)" succeeded
-  140.400 D Task "VerifyJavaInstall(0x25cba050600)" starting for the first time
-  140.400 D Task "VerifyJavaInstall(0x25cba050600)" succeeded
-  140.400 D Task "LauncherPartLaunch(0x25cba14a020)" starting for the first time
-  140.415 D "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms512m -Xmx4096m -Duser.language=en -Djava.library.path=C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/instances/Tierra de Tinieblas/natives -cp C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/jars/NewLaunch.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/com/mojang/patchy/1.3.9/patchy-1.3.9.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/oshi-project/oshi-core/1.1/oshi-core-1.1.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/com/ibm/icu/icu4j/66.1/icu4j-66.1.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/com/mojang/javabridge/1.0.22/javabridge-1.0.22.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/com/google/guava/guava/21.0/guava-21.0.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/commons-io/commons-io/2.5/commons-io-2.5.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/commons-codec/commons-codec/1.10/commons-codec-1.10.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/com/mojang/brigadier/1.0.17/brigadier-1.0.17.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/com/mojang/datafixerupper/4.0.26/datafixerupper-4.0.26.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/com/mojang/authlib/2.1.28/authlib-2.1.28.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/it/unimi/dsi/fastutil/8.2.1/fastutil-8.2.1.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/org/apache/logging/log4j/log4j-api/2.17.1/log4j-api-2.17.1.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/org/apache/logging/log4j/log4j-core/2.17.1/log4j-core-2.17.1.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/com/mojang/text2speech/1.11.3/text2speech-1.11.3.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/io/github/zekerzhayard/ForgeWrapper/mmc2/ForgeWrapper-mmc2.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-launcher.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/org/ow2/asm/asm/9.1/asm-9.1.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/org/ow2/asm/asm-commons/9.1/asm-commons-9.1.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/org/ow2/asm/asm-tree/9.1/asm-tree-9.1.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/org/ow2/asm/asm-util/9.1/asm-util-9.1.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/org/ow2/asm/asm-analysis/9.1/asm-analysis-9.1.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/cpw/mods/modlauncher/8.1.3/modlauncher-8.1.3.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/cpw/mods/grossjava9hacks/1.3.3/grossjava9hacks-1.3.3.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/net/minecraftforge/accesstransformers/3.0.1/accesstransformers-3.0.1.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/net/minecraftforge/eventbus/4.0.0/eventbus-4.0.0.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/net/minecraftforge/forgespi/3.2.0/forgespi-3.2.0.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/net/minecraftforge/coremods/4.0.6/coremods-4.0.6.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/com/electronwill/night-config/core/3.6.3/core-3.6.3.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/com/electronwill/night-config/toml/3.6.3/toml-3.6.3.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/org/jline/jline/3.12.1/jline-3.12.1.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/org/apache/maven/maven-artifact/3.6.3/maven-artifact-3.6.3.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/net/jodah/typetools/0.8.3/typetools-0.8.3.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/net/minecraftforge/nashorn-core-compat/15.1.1.1/nashorn-core-compat-15.1.1.1.jar;C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/libraries/com/mojang/minecraft/1.16.5/minecraft-1.16.5-client.jar org.prismlauncher.EntryPoint"
-  144.014 D Task "ConcurrentTask(0x25cba4ce1f8)" succeeded
-  144.049 D Component list save performed now for "Tierra de Tinieblas"
-  169.714 D [HttpMetaCache] Saving metacache with 20 entries
- 1815.160 D Task "LauncherPartLaunch(0x25cba14a020)" succeeded
- 1815.196 D Writing account list to "accounts.json"
- 1815.196 D Building JSON data structure.
- 1815.198 D Building account array.
- 1815.199 D Writing account list to file.
- 1815.203 D Saved account list to "accounts.json"
- 1815.239 W Profile "0fec96d41f964499b90be23f3c97724e" is no longer in use.
- 1815.290 D Task "LaunchTask(0x25cba1f4690)" succeeded
- 1815.291 D Task "LaunchController(0x25cba200b30)" succeeded
+    0.093 D Detected default console font: "Courier New" , substitutions: ""
+    0.093 D <> Settings loaded.
+    0.093 D Detecting proxy settings...
+    0.093 D Using no proxy is an option!
+    0.093 D <> Network done.
+    0.093 D Loading Application Language File for es_UY ...
+    0.093 D Your language is "es_UY"
+    0.093 D <> Translations loaded.
+    0.109 D Started watching  "C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/icons"
+    0.109 D Sorting icon list...
+    0.109 D <> Instance icons intialized.
+    0.265 D [Theme] <> Icon themes initialized.
+    0.265 D [Theme] <> Initializing Widget Themes
+    0.265 D [Theme] Determining System Theme...
+    0.265 D [Theme] System theme seems to be: "windowsvista"
+    0.265 D [Theme] Considering theme from theme factory: "windowsvista"
+    0.265 D [Theme] System theme has been determined to be: "windowsvista"
+    0.265 D [Theme] Loading Built-in Theme: "system"
+    0.265 D [Theme] Loading Built-in Theme: "dark"
+    0.265 D [Theme] Loading Built-in Theme: "bright"
+    0.265 D [Theme] Theme Folder Path:  "C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/themes"
+    0.265 D [Theme] <> Widget themes initialized.
+    0.265 D Instance path              :  "instances"
+    0.265 D Loading Instances...
+    0.265 D Discovering instances in "C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/instances"
+    0.265 D Found instance ID "Tierra de Tinieblas"
+    0.265 D Will load group list now.
+    0.265 D Group list loaded.
+    0.265 D Loaded instance  "Tierra de Tinieblas"  from  "C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/instances/Tierra de Tinieblas"
+    0.265 D <> Instances loaded.
+    0.265 D Loading accounts...
+    0.265 D AccountList: Queued default account with internal ID  "4338ba8691844940bdddebce42f5cc47"  to refresh first
+    0.265 D Task "OfflineRefresh(0x20533e22b90)" starting for the first time
+    0.265 D AuthFlow: "Creating offline account."
+    0.265 D Task "OfflineRefresh(0x20533e22b90)" succeeded
+    0.265 D Writing account list to "accounts.json"
+    0.265 D Building JSON data structure.
+    0.265 D Building account array.
+    0.265 D Writing account list to file.
+    0.265 D Saved account list to "accounts.json"
+    0.265 D RefreshSchedule: Background account refresh succeeded
+    0.265 D RefreshSchedule: Processing account  "<Offline>"  with internal ID  "4338ba8691844940bdddebce42f5cc47"
+    0.265 D <> Accounts loaded.
+    0.265 D <> Cache initialized.
+    0.265 D Downloading Translations Index...
+    0.265 W Removing cache entry because of old age!
+    0.265 D Task "NetJob(Translations Index)" starting for the first time
+    0.281 D <> Icon theme set.
+    0.281 D [Theme] applying theme "Sistema"
+    0.281 D <> Application theme set.
+    0.609 D Reloading news.
+    0.609 D Task "NetJob(News RSS Feed)" starting for the first time
+    0.609 D Task "ComponentUpdateTask(0x20537c988e0)" starting for the first time
+    0.609 D Loading components
+    0.625 D Component list save is scheduled for "Tierra de Tinieblas"
+    0.640 D Resolving dependencies
+    0.640 D "Req: net.minecraft == 1.16.5" Is met.
+    0.640 D "Req: org.lwjgl3" Is met.
+    0.640 D Task "ComponentUpdateTask(0x20537c988e0)" succeeded
+    0.640 D Component list update/resolve task succeeded for "Tierra de Tinieblas"
+    0.812 D <> Main window shown.
+    0.828 D Task "Net::Download(0x20535d10a00)" starting for the first time
+    0.828 D Downloading  "https://i18n.prismlauncher.org/index_v2.json"
+    0.922 D Task "Net::Download(0x20535d119c0)" starting for the first time
+    0.922 D Downloading  "https://prismlauncher.org/feed/feed.xml"
+    0.937 D Dir changed: "C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/translations"
+    0.937 D Loading Application Language File for es_UY ...
+    1.078 D Download succeeded: "https://i18n.prismlauncher.org/index_v2.json"
+    1.078 D Task "NetJob(Translations Index)" succeeded
+    1.078 D Got translations index!
+    1.078 W Removing cache entry because of old age!
+    1.078 D Task "NetJob(Translation for es_UY)" starting for the first time
+    1.078 D Dir changed: "C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/translations"
+    1.093 D Loading Application Language File for es_UY ...
+    1.093 D Dir changed: "C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/translations"
+    1.093 D Loading Application Language File for es_UY ...
+    1.093 D Task "Net::Download(0x20538011de0)" starting for the first time
+    1.093 D Downloading  "https://i18n.prismlauncher.org/2287bd30b6b2fb8f20132700228828631f5b3420.class"
+    1.093 D Dir changed: "C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/translations"
+    1.093 D Loading Application Language File for es_UY ...
+    1.156 D Download succeeded: "https://i18n.prismlauncher.org/2287bd30b6b2fb8f20132700228828631f5b3420.class"
+    1.156 D Task "NetJob(Translation for es_UY)" succeeded
+    1.156 D Got translation: "es_UY"
+    1.172 D Loading Application Language File for es_UY ...
+    1.172 D Dir changed: "C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/translations"
+    1.172 D Loading Application Language File for es_UY ...
+    1.172 D Dir changed: "C:/Users/chara/GitHub/TierraDeTinieblas/Launcher/translations"
+    1.172 D Loading Application Language File for es_UY ...
+    1.437 D Download succeeded: "https://prismlauncher.org/feed/feed.xml"
+    1.437 D Task "NetJob(News RSS Feed)" succeeded
+    1.437 D Finished loading RSS feed.
+    1.453 D Loaded news entry "Prism Launcher Release 6.1, now available"
+    1.453 D Loaded news entry "Prism Launcher Release 6.0, now available"
+    1.453 D Loaded news entry "Prism Launcher Release 5.2, now available"
+    1.453 D Loaded news entry "Prism Launcher Release 5.1, now available"
+    1.453 D Loaded news entry "Prism Launcher Release 5.0, now available"
+    1.453 D Loaded news entry "PolyMC Update 1.4.2, now available"
+    1.453 D Loaded news entry "PolyMC Update 1.4.1, now available"
+    1.453 D Loaded news entry "PolyMC Update 1.4.0, now available"
+    1.453 D Loaded news entry "PolyMC Update 1.3.2, now available"
+    1.453 D Loaded news entry "PolyMC Update 1.3.1, now available"
+    1.453 D Loaded news entry "PolyMC Update 1.3.0, now available"
+    1.453 D Loaded news entry "PolyMC Update 1.2.2, now available (CurseForge Hotfix)"
+    1.453 D Loaded news entry "PolyMC Update 1.2.1, now available"
+    1.453 D Loaded news entry "PolyMC Update 1.2.0, now available"
+    1.453 D Loaded news entry "PolyMC Update 1.1.1, now available"
+    1.453 D Loaded news entry "PolyMC Update 1.1.0, now available"
+    1.453 D Loaded news entry "Moving on"
+    1.453 D Loaded news entry "Modrinth support and Mod downloading"
+    1.453 D Loaded news entry "New maintainers and step down."
+    1.453 D News loading succeeded.
+    4.551 D Component list save performed now for "Tierra de Tinieblas"
+    4.551 D Task "ComponentUpdateTask(0x20537caefc0)" starting for the first time
+    4.551 D Loading components
+    4.551 D Index is already loaded
+    4.551 D Component list save is scheduled for "Tierra de Tinieblas"
+    4.551 D Resolving dependencies
+    4.551 D "Req: net.minecraft == 1.16.5" Is met.
+    4.551 D "Req: org.lwjgl3" Is met.
+    4.551 D Task "ComponentUpdateTask(0x20537caefc0)" succeeded
+    4.551 D Component list update/resolve task succeeded for "Tierra de Tinieblas"
+    4.567 W Removing cache entry because of old age!
+    4.567 D Task "NetJob(Descarga del archivo meta org.lwjgl3/index.json)" starting for the first time
+    4.582 D Instance-type specific settings were loaded!
+    4.661 D Applying "org.lwjgl3" GOOD
+    4.661 D Applying "net.minecraft" GOOD
+    4.661 D Applying "net.minecraftforge" GOOD
+    4.739 D Task "Net::Download(0x205380114e0)" starting for the first time
+    4.739 D Downloading  "https://meta.prismlauncher.org/v1/org.lwjgl3/index.json"
+    4.848 D Download succeeded: "https://meta.prismlauncher.org/v1/org.lwjgl3/index.json"
+    4.848 D Task "NetJob(Descarga del archivo meta org.lwjgl3/index.json)" succeeded
+    9.548 D Component list save performed now for "Tierra de Tinieblas"
+   34.872 D [HttpMetaCache] Saving metacache with 20 entries
+  159.765 W QFileSystemWatcher::removePaths: list is empty
