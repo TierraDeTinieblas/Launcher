@@ -856,9 +856,9 @@
         },
         {
             "base": "translations",
-            "current_age": 362,
+            "current_age": 439,
             "etag": "W/\"63b2cc2a-486f\"",
-            "last_changed_timestamp": 1672690616089,
+            "last_changed_timestamp": 1672691390237,
             "max_age": 600,
             "md5sum": "b1647d7a4b59ea06106f322aa13b9d31",
             "path": "index_v2.json",
@@ -876,9 +876,9 @@
         },
         {
             "base": "translations",
-            "current_age": 419,
+            "current_age": 411,
             "etag": "\"63b2cc2a-24c7a\"",
-            "last_changed_timestamp": 1672690616151,
+            "last_changed_timestamp": 1672691390285,
             "max_age": 600,
             "md5sum": "91e73ae013cfc940e25d55878368e1ce",
             "path": "mmc_es_UY.qm",
